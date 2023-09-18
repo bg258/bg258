@@ -14,7 +14,7 @@ Currently, I'm independently delving into a diverse array of subjects, including
   <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
  
 <br />
-LinkedIn : https://www.linkedin.com/in/marktzvetoslavov/ <br/>
+LinkedIn : https://www.linkedin.com/in/markdochev/ <br/>
 - 💬 ask me about anything, i am happy to help; <br>
 **languages and tools:**  
 
@@ -39,4 +39,7 @@ LinkedIn : https://www.linkedin.com/in/marktzvetoslavov/ <br/>
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bg258&show_icons=true&theme=gotham" alt="bg258/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bg258&show_icons=true&theme=gotham" alt="bg258's GitHub stats">
+</p>
+
