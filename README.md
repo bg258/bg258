@@ -1,22 +1,28 @@
+<h1 align="center">Hello 👋, I'm Mark Tzvetoslavov</h1>
+<h3 align="center">A Passionate Full Stack Developer</h3>
+<br />
 
-<h1 align="center">Hi 👋, I'm Mark</h1>
-<h4 align="center">Back end developer, in ♡ with coding.</h4>
+<p align="center">
+  <strong>Full Stack, in ♡ with coding.</strong>
+  <br><br>
+  Deeply in love with coding, I am a seasoned software engineer known for my self-initiated prowess in back-end development. My drive for software originates from envisioning unique ideas and materializing them with polished interfaces. I hold the user experience, architectural design, and the pristine quality of what I build in high regard.
+</p>
 
+<p align="center">
+  Currently, I'm broadening my horizons by self-studying a variety of subjects: from cybersecurity and network security to hardware and support fundamentals (Comptia+), networking, database systems, and beyond. My journey into the tech world is ever-evolving, and I continuously seek to integrate the latest advancements into my skill set.
+</p>
+
+<img align="right" alt="Coding GIF" src="code.gif" width="500" height="320" />
+
+<p align="center">
+  🌐 <a href="https://www.linkedin.com/in/markdochev/">LinkedIn</a> <br />
+  💬 Feel free to ask me anything; I'm always eager to assist. If you need more information about my expertise or projects, don't hesitate to reach out.
+  <br />
+  🛠 <b>Languages and Tools:</b>
+</p>
 
 <br />
- **Full Stack, in ♡ with coding.**
-<br />
-Greetings! I'm Mark Tzvetoslavov, a seasoned software engineer with a fervent self-initiated expertise in back-end development. My enthusiasm for software is rooted in conceptualizing innovative ideas and bringing them to life through sleek interfaces. I am meticulous about user experience, architectural integrity, and the overall quality of my creations.
 
-
-Currently, I'm independently delving into a diverse array of subjects, including cybersecurity, network security, hardware and support fundamentals (Comptia+), networking, database systems, and more.
-
-  <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
- 
-<br />
-LinkedIn : https://www.linkedin.com/in/markdochev/ <br/>
-- 💬 ask me about anything, i am happy to help; <br>
-**languages and tools:**  
 
 <br>
 
