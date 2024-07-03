@@ -10,8 +10,3 @@
 </p>
 
 <br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bg258&show_icons=true&theme=gotham" alt="bg258's GitHub stats">
-</p>
-
